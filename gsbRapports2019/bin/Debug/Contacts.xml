@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Medicaments>ADIMOL</Medicaments>
+    <ID>ADIMOL9</ID>
+    <Quantités>72</Quantités>
+  </Table1>
+  <Table1>
+    <Medicaments>AMOPIL</Medicaments>
+    <ID>AMOPIL7</ID>
+    <Quantités>70</Quantités>
+  </Table1>
+  <Table1>
+    <Medicaments>AMOXAR</Medicaments>
+    <ID>AMOX45</ID>
+    <Quantités>91</Quantités>
+  </Table1>
+  <Table1>
+    <Medicaments>AMOXI Gé</Medicaments>
+    <ID>AMOXIG12</ID>
+    <Quantités>98</Quantités>
+  </Table1>
+</NewDataSet>
